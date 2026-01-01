@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "architecture/Lab 1 Ubuntu LTS.md",
+                "file": "templates/Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lab 1 Ubuntu LTS"
+              "title": "Untitled"
             }
           }
         ]
@@ -171,8 +171,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-ghost",
+              "title": "calendar"
             }
           }
         ]
@@ -196,12 +196,22 @@
   },
   "active": "952765438e1a0ae9",
   "lastOpenFiles": [
-    "architecture/Lab 1 Ubuntu LTS.md",
+    "playbooks/Untitled.md",
+    "templates/Untitled.md",
+    "mitre/Untitled.md",
+    "conf/Untitled.md",
+    "incidents/Untitled.md",
+    "README.md",
+    "architecture/Ubuntu LTS – Victim Host.md",
+    "conf",
+    "templates",
+    "playbooks",
+    "mitre",
+    "incidents",
     "templates",
     "playbooks",
     "mitre",
     "conf",
-    "incidents",
-    "architecture"
+    "incidents"
   ]
 }
